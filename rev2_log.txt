@@ -1,0 +1,11 @@
+calib2 done 268
+tune2 {'delta': 8, 's1ca_vq': [0.05228521699256371, 0.21275010951616685, 0.827935881218634, 0.9835937173528275], 'vqT0.1': 1.0, 'vqT0.2': 10.0, 'aqT0.1': 0.0001, 'aqT0.2': 0.0001, 'multi0.00313': 0.3, 'multi0.00625': 0.3}
+cheap done 1623
+cs1 done 4040
+delay done 6692
+tiny_gates done 7659
+multi_low done 7889
+learned done 8553
+mismatch2 done 9741
+long done 11273
+all done 11273

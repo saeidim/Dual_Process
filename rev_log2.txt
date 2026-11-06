@@ -1,0 +1,3 @@
+calib done 0
+tuned {'vq': 1.0, 'aq': 0.001, 'pd': 100.0, 'multi': 0.25}
+main2 done 1926
